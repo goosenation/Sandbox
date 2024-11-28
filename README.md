@@ -1,4 +1,9 @@
 # Sandbox
 A sandbox mod for learning
 
-This repository's first commit is based on Zen Rowe's tutorial on YT, but is updated for DevKit version of UE 5.2: https://www.youtube.com/watch?v=Sbup8LfpQ5
+# Wild Card Workshop
+https://www.youtube.com/playlist?list=PL2o1TY9xh_JsmbgQfSCydfT-7OSdvxsVR
+
+- Workshop #02: https://www.youtube.com/watch?v=Sbup8LfpQ5
+- Workshop #03: https://www.youtube.com/watch?v=Sbup8LfpQ5A
+  
