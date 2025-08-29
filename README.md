@@ -1,5 +1,5 @@
 # Sandbox
-A sandbox mod for learning
+A sandbox mod for learning mod dev
 
 # Wild Card Workshop
 https://www.youtube.com/playlist?list=PL2o1TY9xh_JsmbgQfSCydfT-7OSdvxsVR
